@@ -17,14 +17,17 @@ def clean_playlist():
         for line in lines:
             if line.startswith("http"):
                 if "|" not in line:
-                    # User-Agent sathe Referer header pan inject karo je thi 403 error na ave
-                    line = line + "|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)&Referer=https://jiotv.jio.com/"
+                    # JioTV mate exact headers je thi 403 error na ave
+                    if "jiotv" in line.lower() or "jio" in line.lower():
+                        line = line + "|User-Agent=JioTV&Referer=https://jiotv.jio.com/"
+                    else:
+                        line = line + "|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)"
             new_lines.append(line)
 
         with open("smooth_playlist.m3u", "w", encoding="utf-8") as f:
             f.write("\n".join(new_lines))
             
-        print("Playlist updated with Referer headers successfully!")
+        print("JioTV and Fancode headers updated successfully!")
     except Exception as e:
         print(f"Error: {e}")
 
