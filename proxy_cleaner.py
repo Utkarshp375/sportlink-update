@@ -11,13 +11,11 @@ def clean_playlist():
         with urllib.request.urlopen(req) as response:
             content = response.read().decode('utf-8')
 
-        # Ahiya clear key ane MPD / M3U8 streams mate proper formatting rakhi chhe
-        # TiviMate mate je channel m3u8 hoy te direct chalase ane mpd mate clear key tags support karse.
-        
+        # Badha original headers ane Kodiprop tags sathe ni file seedhi save thase
         with open("smooth_playlist.m3u", "w", encoding="utf-8") as f:
             f.write(content)
             
-        print("Playlist updated with Clearkey / MPD support successfully!")
+        print("Playlist updated successfully with all headers!")
     except Exception as e:
         print(f"Error: {e}")
 
