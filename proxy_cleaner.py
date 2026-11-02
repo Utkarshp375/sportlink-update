@@ -11,23 +11,11 @@ def clean_playlist():
         with urllib.request.urlopen(req) as response:
             content = response.read().decode('utf-8')
 
-        lines = content.splitlines()
-        new_lines = []
-        
-        for line in lines:
-            if line.startswith("http"):
-                if "|" not in line:
-                    # JioTV mate exact headers je thi 403 error na ave
-                    if "jiotv" in line.lower() or "jio" in line.lower():
-                        line = line + "|User-Agent=JioTV&Referer=https://jiotv.jio.com/"
-                    else:
-                        line = line + "|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)"
-            new_lines.append(line)
-
+        # Koi pan line modification vagar seedhi file save karo jethi EXTْلCOPT headers preserve rahe
         with open("smooth_playlist.m3u", "w", encoding="utf-8") as f:
-            f.write("\n".join(new_lines))
+            f.write(content)
             
-        print("JioTV and Fancode headers updated successfully!")
+        print("Playlist synced successfully with all original headers!")
     except Exception as e:
         print(f"Error: {e}")
 
