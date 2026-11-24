@@ -4,36 +4,27 @@
 # Join us on Telegram: https://t.me/jitendraunatti_github
 # Last Checked: Tuesday, 24 November 2026 at 11:09:21 am
 
-#===== SonyLIV | Sportlink (5 channels) =====
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca
+#===== SonyLIV | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-name="Bodø/Glimt vs LASK - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bodø/Glimt vs LASK - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795588971~acl=/*~id=16773703374515526392464263505405~hmac=b0fb33aa6813043119747b0a595bd26b1351e4d8247d9a19dcc56ead76089b4b
 
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca
-
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca
-
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca
-
-#EXTINF:-1 tvg-name="India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India A vs UAE - 24 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca
+#EXTINF:-1 tvg-name="Galatasaray vs Aston Villa - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Galatasaray vs Aston Villa - 24 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795588971~acl=/*~id=16773703374515526392464263505405~hmac=b0fb33aa6813043119747b0a595bd26b1351e4d8247d9a19dcc56ead76089b4b
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 24-11-2026
+#LAST_UPDATE:12:37 AM 25-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
 #UPCOMING_COUNT:34
 
-#EXTINF:-1 tvg-id="B0HR6PG192" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7ce31cd4-075b-478e-a281-f98d632e52d5/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 11th Match - India A vs United Arab Emirates
+#EXTINF:-1 tvg-id="B0HQQV94GJ" tvg-name="International League T20 2026 - 5th Match - Gulf Giants vs Mi Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdf2bec4-d6e0-4ffd-a08f-96202ad26237/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",International League T20 2026 - 5th Match - Gulf Giants vs Mi Emirates
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531497de47944ade5410fe5852905698:574547fdae92793f4630b65dade01761
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
